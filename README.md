@@ -3,6 +3,20 @@ Project 1 of the Capstone project
 
 ## Excel
 
+> Perform an initial exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
+![Pivot table 1](https://github.com/user-attachments/assets/7d10270c-71b8-4396-9721-1b470787116c)
+
+
+> Use Excel formulas to calculate metrics such as average sales per product and total revenue by region.
+
+![Average sales per product](https://github.com/user-attachments/assets/59b31714-a934-433e-b0d7-202cd75af8e0)
+
+![Total revenue per region](https://github.com/user-attachments/assets/36f62c6b-b9be-4b4c-9c89-30dc1f790289)
+
+
+
+> Create any other interesting report
+
 ## SQL
 ```SQL
 select * from Capstone_SalesData
