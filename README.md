@@ -1,6 +1,9 @@
 # LITA-Capstone-Project-1-
 Project 1 of the Capstone project
 
+## Excel
+
+## SQL
 ```SQL
 select * from Capstone_SalesData
 ```
@@ -82,4 +85,5 @@ where datepart(MONTH, OrderDate) > 6
 and datepart(MONTH, OrderDate) < 11
 and datepart(YEAR, OrderDate) = 2024) 
 ```
- 
+
+## Power Bi
